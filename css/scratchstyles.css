@@ -18,7 +18,8 @@ background-color: whitesmoke;
     bottom: 0px; 
     right: 5px; 
     left: 5px; 
-    padding-top:15px;
+    padding-top:10px; 
+    padding-bottom: 10px
 } 
 img{ 
     display:block; 
